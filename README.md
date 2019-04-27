@@ -15,7 +15,7 @@ All colors must be chosen from the list below.
 
 The second light pattern sends a pulse of color out from the center. The color of the pulse is based on how great the audio level was. This pattern comes with predetermined colors.
 
-Run through bash terminal using ####sudo python3 pulse 
+Run through bash terminal using `sudo python3 pulse`
 
 ### Color List ###
 Red
