@@ -9,7 +9,7 @@ I learned how to connect two Python scripts on different devices wirelessly thro
 ## main.py ##
 This is the main file ran from the Raspberry Pi consisting of two light patterns. The first of which, called 'line', displays a line of the selected color. The line goes out from the center in both directions with varying lengths based on the audio level. 
 
-Run through bash terminal using `sudo python3 line _color backgroundColor_`
+Run through bash terminal using `sudo python3 line 'color' 'backgroundColor'`
 The 'color' corresponds to the color of the line while the 'backgroundColor' is the color of the pixels behind the line.
 All colors must be chosen from the list below.
 
